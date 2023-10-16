@@ -25,10 +25,8 @@ step-7 create the function mov the img (see that my above progarm file ex-open t
 step-8:poc-man prograam is running successfully
 
 
-https://github.com/BalasuryaMCA2023/pocman/assets/139736173/89696684-8395-430e-ae0c-933c937c24d5
-
-
+https://github.com/BalasuryaMCA2023/Redeem-Pacmen/assets/139736173/6308a530-1f55-4b80-b5ca-7acbe3759a6a
 
 # Future Improvement
 
-currently, for positions in multiple directions, future improvements are multiple colors in Pac-Man using Javascript another language in the future 
+currently, for positions in multiple directions, future improvements are multiple colors in Pac-Man using Javascript are  another language in the future 

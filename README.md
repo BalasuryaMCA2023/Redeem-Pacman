@@ -8,22 +8,9 @@ step-3:create the html stature using symbol (!) just enter html stature is ready
 
 step-4:create box using <style> type the height and width to create the rectangle box css (or) style tag in html file
 
-step-5:open the script tag (or) create sprate .js file
+step-5:open the script tag (or) create separate .js file
 
-ex-<script src="pacman.js"></script>
-
-step-6:create a variable just like that
-
-ex-// Pac-Man's current position
-
-let pacmanX = 100; let pacmanY = 100;
-
-// Speed of Pac-Man let pacmanSpeed = 10;
-
-step-7 create the function mov the img (see that my above progarm file ex-open the index file)
-
-step-8:poc-man prograam is running successfully
-
+step-6:poc-man prograam is running successfully
 
 https://github.com/BalasuryaMCA2023/Redeem-Pacmen/assets/139736173/6308a530-1f55-4b80-b5ca-7acbe3759a6a
 
